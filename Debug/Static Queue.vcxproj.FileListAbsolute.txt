@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\Static Queue\Debug\Static Queue.exe
+C:\Users\HP\source\repos\Static Queue\Debug\Static Queue.pdb

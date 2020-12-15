@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\Static Queue\Source.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Static Queue.vcxproj -> C:\Users\HP\source\repos\Static Queue\Debug\Static Queue.exe
